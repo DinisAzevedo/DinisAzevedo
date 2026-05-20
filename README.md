@@ -24,4 +24,4 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 
 # Spotify 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=15upvbkyiz6xh163irkztzj7v&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) ---
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=15upvbkyiz6xh163irkztzj7v&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) 
